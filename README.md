@@ -20,7 +20,7 @@ To get a Git project into your build:
 ...gradle
 
 	dependencies {
-	        implementation 'com.github.amolvppawar:EasyToast:Tag'
+	        implementation 'com.github.amolvppawar:EasyToast:1.0.0'
 	}
 	
 ...
